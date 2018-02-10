@@ -1,0 +1,24 @@
+{
+  "name": "angular-datetime-picker",
+  "version": "1.0.0",
+  "description": "Date and time picker for Angular 2+.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santi4488/angular-datetime-picker.git"
+  },
+  "keywords": [
+    "angular",
+    "datetimepicker",
+    "ng-bootstrap"
+  ],
+  "author": "Christopher Santiago",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santi4488/angular-datetime-picker/issues"
+  },
+  "homepage": "https://github.com/santi4488/angular-datetime-picker#readme"
+}
